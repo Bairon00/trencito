@@ -10,3 +10,13 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.tamaño1{width: 100px;
+margin-left: -8px;
+margin-top: -10px;}
+.tamaño2{width: 100px;
+margin-left: -10px;
+margin-bottom: 0px;}
+.tamaño3{width: 100px;
+    margin-left: -10px;
+    margin-bottom: -15px;}
+
